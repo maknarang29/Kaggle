@@ -471,7 +471,7 @@ PoolArea: Pool area in square feet
 
 PoolQC: Pool quality
 		
-       Ex	Excellent
+       Ex	Esxcellent
        Gd	Good
        TA	Average/Typical
        Fa	Fair
